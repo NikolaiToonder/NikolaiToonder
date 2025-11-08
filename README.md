@@ -5,5 +5,5 @@ A computer engineering student @ NTNU
 - Languages: C, C++, Go, Python, Java
 - Tools: Git, Docker, Linux, Godot
 
-Feel free to mail me @: [nikolaitoonder@gmail.com](mailto:nikolaitoonder@gmail.com)
+Feel free to mail me at: [nikolaitoonder@gmail.com](mailto:nikolaitoonder@gmail.com)
 I check it pretty often
