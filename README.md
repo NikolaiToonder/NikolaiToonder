@@ -2,8 +2,8 @@
 A computer engineering student @ NTNU
 
 ### I mainly use these tools and languages when i develop stuff:
-- Languages: C, C++, Go, Python, Java
-- Tools: Git, Docker, Linux, Godot
+- Languages: Rust, Go, Python, Java
+- Tools: Docker, Godot
 
 Feel free to mail me at: [nikolaitoonder@gmail.com](mailto:nikolaitoonder@gmail.com)
 I check it pretty often
